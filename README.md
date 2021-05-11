@@ -6,5 +6,5 @@ A repository for TA classes of Spring 2021 semester
 - [String-StringBuilder](S002&S003-String-StringBuilder-Regex)
 - [Git](S004-Git)
 - [Multi-threading](S007&S008-Multi-Threading)
-- [IO](006-File&IO)
+- [IO](S006-File&IO)
 
